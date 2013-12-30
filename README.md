@@ -1,6 +1,7 @@
 # RateReview
 
-TODO: Write a gem description
+Note** This gem is in progress and would greatly appreciate any help
+This is a gem for rating and reviewing with stars
 
 ## Installation
 
